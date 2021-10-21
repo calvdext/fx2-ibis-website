@@ -5,8 +5,7 @@
 1. Create html
 1. css style
 1. creating a commit with git
-
-
+    
 
 ## Set up the enviroment
 - Create the folder 

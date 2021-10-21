@@ -7,6 +7,9 @@ header {
     padding-top: 20px;
     padding-right: 40px;
 }
+header span {
+    font-size: 30px;
+}
 h1 {
     font-size: 40px;
 }
@@ -15,6 +18,19 @@ h2 {
 }
 p {
     font-size: 20px;
+}
+a {
+    text-decoration: none;
+    display: block;
+}
+a:visited {
+    color: orange;
+}
+a:link {
+    color: orange;
+}
+a:hover {
+    background-color: salmon;
 }
 .main-section {
     border: orange 5px solid;
@@ -32,4 +48,7 @@ p {
 footer {
     background-color: orange;
     padding-left: 20px;
+}
+#footer-link {
+    color: black;
 }
